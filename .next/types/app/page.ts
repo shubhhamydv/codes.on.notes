@@ -1,4 +1,4 @@
-// File: C:\Users\sh\Downloads\codes-on-notes-backend\app\page.js
+// File: D:\codes.on.notes\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: C:\Users\sh\Downloads\codes-on-notes-backend\app\layout.tsx
+// File: D:\codes.on.notes\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

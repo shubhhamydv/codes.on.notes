@@ -1,4 +1,10 @@
 "use client";
+import { Space_Grotesk } from "next/font/google";
+
+const spaceGrotesk = Space_Grotesk({
+  subsets: ["latin"],
+  variable: "--font-space-grotesk",
+});
 
 // ─── HERO SECTION ─────────────────────────────────────────────────────────────
 // Props:
@@ -19,7 +25,7 @@ export default function HeroSection({ session, onNavigate, onAuthOpen }) {
         </div>
 
         {/* Title */}
-        <h1 className="hero-title anim anim-delay-1">
+        <h1 className="hero-title anim anim-delay-1 font-[grotesk] font-weight- 3.2px">
           Master DSA<br /><span>Visually</span>
         </h1>
 

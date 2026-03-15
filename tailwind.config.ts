@@ -21,6 +21,7 @@ const config: Config = {
         display: ["Syne", "sans-serif"],
         mono: ["JetBrains Mono", "monospace"],
         body: ["DM Sans", "sans-serif"],
+        grotesk: ["var(--font-space-grotesk)", "sans-serif"]
       },
       animation: {
         "fade-in": "fadeIn 0.4s ease forwards",
